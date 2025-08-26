@@ -1,0 +1,18 @@
+# ª∑æ≥≈‰÷√
+python-dotenv
+
+# LangChain
+langchain
+langchain-community
+langchain-text-splitters
+langchain-deepseek
+
+#Faiss
+faiss-cpu
+
+# bge-m3
+langchain-ollama
+
+# AutoGen AgentChat
+autogen-agentchat
+autogen-ext
