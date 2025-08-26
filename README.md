@@ -5,8 +5,8 @@
 知识库采用langchain开发;  
 MCP服务采用fastmcp开发;  
 general agent采用autogen开发  
+![Uploading 图片.png…]()
 
-<img width="600" height="400" alt="图片" src="https://github.com/user-attachments/assets/6bcb4154-3a00-4de7-af86-fdc4179b36ce" />
 
 # 部署指南
 1.本地需安装ollama，并执行```ollama pull bge-m3```安装bge-m3作为嵌入模型划分向量  
