@@ -5,7 +5,6 @@ import asyncio
 load_dotenv()
 API_KEY=os.getenv("API_KEY")
 
-#µº»ÎfastMCP
-from MCP import mcp_client
+from Agent.agent import run_agent
 
-#mcp_client.test("sad")
+run_agent(input("input your query:\n"))
